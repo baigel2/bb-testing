@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Life Goals on Baigel Bytes</title>
-    <link>/tags/life-goals/</link>
+    <link>https://baigel2.github.io/bb-testing/tags/life-goals/</link>
     <description>Recent content in Life Goals on Baigel Bytes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Fri, 30 Dec 2022 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/life-goals/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://baigel2.github.io/bb-testing/tags/life-goals/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Journey Of A Thousand Steps.</title>
-      <link>/blog/tjoats/</link>
+      <link>https://baigel2.github.io/bb-testing/blog/tjoats/</link>
       <pubDate>Fri, 30 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>/blog/tjoats/</guid>
+      <guid>https://baigel2.github.io/bb-testing/blog/tjoats/</guid>
       <description>&lt;p&gt;How do you start making progress towards any goal?&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;&amp;ldquo;The journey of a thousand steps starts with just a single one.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Start. That&amp;rsquo;s it. Thats the first step. That&amp;rsquo;s how you get going in the direction of your goals. You will make mistakes, you will fall and break and maybe even cheat but you will also get back up and moving forward again.&lt;/p&gt;&#xA;&lt;p&gt;Forward, towards the end but focus on the getting there because that&amp;rsquo;s where half the living is.&lt;/p&gt;</description>
     </item>
   </channel>

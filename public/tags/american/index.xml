@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>American on Baigel Bytes</title>
-    <link>/tags/american/</link>
+    <link>https://baigel2.github.io/bb-testing/tags/american/</link>
     <description>Recent content in American on Baigel Bytes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Sun, 10 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/american/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://baigel2.github.io/bb-testing/tags/american/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>For You O Democracy - Walt Whitman.</title>
-      <link>/poems/waltwhitmandemocracy/</link>
+      <link>https://baigel2.github.io/bb-testing/poems/waltwhitmandemocracy/</link>
       <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>/poems/waltwhitmandemocracy/</guid>
+      <guid>https://baigel2.github.io/bb-testing/poems/waltwhitmandemocracy/</guid>
       <description>&lt;p&gt;Come, I will make the continent indissoluble,&#xA;I will make the most splendid race the sun ever shone upon,&#xA;I will make divine magnetic lands,&#xA;With the love of comrades,&#xA;With the life-long love of comrades.&lt;/p&gt;&#xA;&lt;p&gt;I will plant companionship thick as trees along all the rivers of America, and along the shores of the great lakes, and all over the prairies,&#xA;I will make inseparable cities with their arms about each other’s necks,&#xA;By the love of comrades,&#xA;By the manly love of comrades.&lt;/p&gt;</description>
     </item>
     <item>
       <title>O Captain! My Captain! - By Walt Whitman.</title>
-      <link>/poems/waltwhitmancaptain/</link>
+      <link>https://baigel2.github.io/bb-testing/poems/waltwhitmancaptain/</link>
       <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>/poems/waltwhitmancaptain/</guid>
+      <guid>https://baigel2.github.io/bb-testing/poems/waltwhitmancaptain/</guid>
       <description>&lt;p&gt;Captain! my Captain! our fearful trip is done,&#xA;The ship has weather’d every rack, the prize we sought is won,&lt;/p&gt;&#xA;&lt;p&gt;The port is near, the bells I hear, the people all exulting,&lt;/p&gt;&#xA;&lt;p&gt;While follow eyes the steady keel, the vessel grim and daring;&lt;/p&gt;&#xA;&lt;p&gt;But O heart! heart! heart!&#xA;O the bleeding drops of red,&lt;/p&gt;&#xA;&lt;p&gt;Where on the deck my Captain lies,&#xA;Fallen cold and dead.&lt;/p&gt;&#xA;&lt;p&gt;O Captain! my Captain! rise up and hear the bells;&#xA;Rise up—for you the flag is flung—for you the bugle trills,&lt;/p&gt;</description>
     </item>
   </channel>

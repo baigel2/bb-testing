@@ -2,81 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Baigel Bytes</title>
-    <link>/tags/</link>
+    <link>https://baigel2.github.io/bb-testing/tags/</link>
     <description>Recent content in Tags on Baigel Bytes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://baigel2.github.io/bb-testing/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Happiness</title>
-      <link>/tags/happiness/</link>
+      <link>https://baigel2.github.io/bb-testing/tags/happiness/</link>
       <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/happiness/</guid>
+      <guid>https://baigel2.github.io/bb-testing/tags/happiness/</guid>
       <description></description>
     </item>
     <item>
       <title>Purpose</title>
-      <link>/tags/purpose/</link>
+      <link>https://baigel2.github.io/bb-testing/tags/purpose/</link>
       <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/purpose/</guid>
+      <guid>https://baigel2.github.io/bb-testing/tags/purpose/</guid>
       <description></description>
     </item>
     <item>
       <title>Self Improvement</title>
-      <link>/tags/self-improvement/</link>
+      <link>https://baigel2.github.io/bb-testing/tags/self-improvement/</link>
       <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/self-improvement/</guid>
+      <guid>https://baigel2.github.io/bb-testing/tags/self-improvement/</guid>
       <description></description>
     </item>
     <item>
       <title>Discipline vs Consistency.</title>
-      <link>/tags/discipline-vs-consistency./</link>
+      <link>https://baigel2.github.io/bb-testing/tags/discipline-vs-consistency./</link>
       <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>/tags/discipline-vs-consistency./</guid>
+      <guid>https://baigel2.github.io/bb-testing/tags/discipline-vs-consistency./</guid>
       <description></description>
     </item>
     <item>
       <title>ShortStories</title>
-      <link>/tags/shortstories/</link>
+      <link>https://baigel2.github.io/bb-testing/tags/shortstories/</link>
       <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>/tags/shortstories/</guid>
+      <guid>https://baigel2.github.io/bb-testing/tags/shortstories/</guid>
       <description></description>
     </item>
     <item>
       <title>Tech Stuff</title>
-      <link>/tags/tech-stuff/</link>
+      <link>https://baigel2.github.io/bb-testing/tags/tech-stuff/</link>
       <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>/tags/tech-stuff/</guid>
+      <guid>https://baigel2.github.io/bb-testing/tags/tech-stuff/</guid>
       <description></description>
     </item>
     <item>
       <title>Some by Me, Some by Others.</title>
-      <link>/tags/some-by-me-some-by-others./</link>
+      <link>https://baigel2.github.io/bb-testing/tags/some-by-me-some-by-others./</link>
       <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>/tags/some-by-me-some-by-others./</guid>
+      <guid>https://baigel2.github.io/bb-testing/tags/some-by-me-some-by-others./</guid>
       <description></description>
     </item>
     <item>
       <title>Poems</title>
-      <link>/tags/poems/</link>
+      <link>https://baigel2.github.io/bb-testing/tags/poems/</link>
       <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/tags/poems/</guid>
+      <guid>https://baigel2.github.io/bb-testing/tags/poems/</guid>
       <description></description>
     </item>
     <item>
       <title>The Winter Sings - Sergey Esenin.</title>
-      <link>/tags/the-winter-sings---sergey-esenin./</link>
+      <link>https://baigel2.github.io/bb-testing/tags/the-winter-sings---sergey-esenin./</link>
       <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>/tags/the-winter-sings---sergey-esenin./</guid>
+      <guid>https://baigel2.github.io/bb-testing/tags/the-winter-sings---sergey-esenin./</guid>
       <description></description>
     </item>
     <item>
       <title>Alexander Maclean</title>
-      <link>/tags/alexander-maclean/</link>
+      <link>https://baigel2.github.io/bb-testing/tags/alexander-maclean/</link>
       <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>/tags/alexander-maclean/</guid>
+      <guid>https://baigel2.github.io/bb-testing/tags/alexander-maclean/</guid>
       <description></description>
     </item>
   </channel>

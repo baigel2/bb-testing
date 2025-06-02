@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Poetry/Bible. on Baigel Bytes</title>
-    <link>/series/poetry/bible./</link>
+    <link>https://baigel2.github.io/bb-testing/series/poetry/bible./</link>
     <description>Recent content in Poetry/Bible. on Baigel Bytes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Sun, 17 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/series/poetry/bible./index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://baigel2.github.io/bb-testing/series/poetry/bible./index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Song of Ascents - Psalm 121</title>
-      <link>/poems/songofacents-psalm121/</link>
+      <link>https://baigel2.github.io/bb-testing/poems/songofacents-psalm121/</link>
       <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>/poems/songofacents-psalm121/</guid>
+      <guid>https://baigel2.github.io/bb-testing/poems/songofacents-psalm121/</guid>
       <description>&lt;p&gt;I lift up my eyes to the hills&amp;ndash; where does my help come from?&lt;/p&gt;&#xA;&lt;p&gt;My help comes from the LORD, the Maker of heaven and earth.&lt;/p&gt;&#xA;&lt;p&gt;He will not let your foot slip&amp;ndash; he who watches over you will not slumber;&lt;/p&gt;&#xA;&lt;p&gt;indeed, he who watches over Israel will neither slumber nor sleep.&lt;/p&gt;&#xA;&lt;p&gt;The LORD watches over you&amp;ndash; the LORD is your shade at your right hand;&lt;/p&gt;&#xA;&lt;p&gt;the sun will not harm you by day, nor the moon by night.&lt;/p&gt;</description>
     </item>
   </channel>
