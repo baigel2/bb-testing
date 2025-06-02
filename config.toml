@@ -37,13 +37,12 @@ disableHugoGeneratorInject = false
 [permalinks]
   posts = "/posts/:year/:month/:title/"
 
-[author]
-  name = "Adnan Baig"
-
 [blackfriday]
   hrefTargetBlank = true
 
 [taxonomies]
+
+  author   = "author"
   tag      = "tags"
   category = "categories"
   series   = "series"

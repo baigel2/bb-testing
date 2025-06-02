@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 09 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 May 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Brief History of Music Part 1.</title>
+      <link>//localhost:1313/blog/originmusic/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/originmusic/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;A little about the series:&lt;/p&gt;&#xA;&lt;p&gt;Everything that exists, had a beginning. I wonder, what was the beginning of music? It&amp;rsquo;s history predates writing and it&amp;rsquo;s influence is capable of creating phisical and phsychological changes in the the mind soul and body. Music can make you laugh, cry, rage, dream, focus, relax and bounce around like a donkey on crack.&lt;/p&gt;&#xA;&lt;p&gt;So where did it come from?&lt;/p&gt;&#xA;&lt;p&gt;You wanna know something crazy? It even predates humans. Don&amp;rsquo;t believe me?&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Discipline? Yeah, I might have to.</title>
       <link>//localhost:1313/blog/disciplinemighthaveto/</link>
@@ -71,13 +78,6 @@
       <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/stories/wudu/</guid>
       <description>&lt;h2 id=&#34;a-short-story-by-adnan-baig&#34;&gt;A Short Story By Adnan Baig&lt;/h2&gt;&#xA;&lt;p&gt;Standing in front of the bathroom mirror and struggling to hold back her tears, Fatima starts performing her wudu.&#xA;Just as the water touches her hands though, she is transported back to her childhood. To the memory of her mother Maryam, teaching her how to do wudu for the first time.&lt;/p&gt;&#xA;&lt;p&gt; &#xA;                  &amp;ldquo;Ok bubbly, first we say&amp;hellip;&amp;rdquo;&#xA; &lt;/p&gt;&#xA;&lt;p&gt;They both speak together. &amp;ldquo;Bismillah Hir Rahman Nir Raheem&amp;rdquo;&#xA; &lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>The Apple of My Eye.</title>
-      <link>//localhost:1313/blog/appleofmyeye/</link>
-      <pubDate>Tue, 26 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/appleofmyeye/</guid>
-      <description>&lt;hr&gt;&#xA;&lt;h2 id=&#34;why-i-love-apple-as-a-former-linux-user&#34;&gt;Why I love apple as a former linux user.&lt;/h2&gt;&#xA;&lt;p&gt;Linux. It&amp;rsquo;s an operating system I love very much. Or at least I love the idea of linux. The idea that you can own your computer and do whatever you want with it, change it completely to your liking and use it however you want.&lt;/p&gt;&#xA;&lt;p&gt;It&amp;rsquo;s a great idea in principle but there are some hangups. You see, theres a difference between being able to do everything yourself and having to do everything yourself.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
