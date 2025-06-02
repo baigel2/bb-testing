@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cycles of Life on Baigel Bytes</title>
-    <link>//localhost:1313/tags/cycles-of-life/</link>
+    <link>/tags/cycles-of-life/</link>
     <description>Recent content in Cycles of Life on Baigel Bytes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/cycles-of-life/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/cycles-of-life/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>River Cycle</title>
-      <link>//localhost:1313/poems/rivercycle/</link>
+      <link>/poems/rivercycle/</link>
       <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/poems/rivercycle/</guid>
+      <guid>/poems/rivercycle/</guid>
       <description>&lt;p&gt;The endless way the river flows.&lt;/p&gt;&#xA;&lt;p&gt;In circles it cycles, it comes and it goes.&lt;/p&gt;&#xA;&lt;p&gt;Life is like a river, to go from the clouds, to the mountains to the dirt,&lt;/p&gt;&#xA;&lt;p&gt;then back up and on again,&lt;/p&gt;&#xA;&lt;p&gt;if you don&amp;rsquo;t let it, it wont hurt.&lt;/p&gt;&#xA;&lt;p&gt;Strengthen your mind, it&amp;rsquo;s about the way you take what comes.&lt;/p&gt;&#xA;&lt;p&gt;Let no errors break you,&lt;/p&gt;&#xA;&lt;p&gt;but let them teach you more.&lt;/p&gt;&#xA;&lt;p&gt;Forward is the way I go, for forward is the way I must,&lt;/p&gt;</description>
     </item>
   </channel>

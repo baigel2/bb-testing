@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Journey to Manhood. on Baigel Bytes</title>
-    <link>//localhost:1313/tags/journey-to-manhood./</link>
+    <link>/tags/journey-to-manhood./</link>
     <description>Recent content in Journey to Manhood. on Baigel Bytes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Sun, 05 Nov 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/journey-to-manhood./index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/journey-to-manhood./index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>To make a boy a man.</title>
-      <link>//localhost:1313/poems/makeboyman/</link>
+      <link>/poems/makeboyman/</link>
       <pubDate>Sun, 05 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/poems/makeboyman/</guid>
+      <guid>/poems/makeboyman/</guid>
       <description>&lt;p&gt;To make a boy a man, get up and go on forth.&lt;/p&gt;&#xA;&lt;p&gt;Do what you know needs doing, if it&amp;rsquo;s easy or if its hard.&lt;/p&gt;&#xA;&lt;p&gt;Steady drop defeats fleeting torrent, as the pen defeats the sword.&lt;/p&gt;&#xA;&lt;p&gt;Persistence, discipline, humility. Consistency is key.&lt;/p&gt;&#xA;&lt;p&gt;The empty mind reveals a mirror,&lt;/p&gt;&#xA;&lt;p&gt;To the eddies of your soul.&lt;/p&gt;</description>
     </item>
   </channel>

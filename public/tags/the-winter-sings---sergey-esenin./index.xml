@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Winter Sings - Sergey Esenin. on Baigel Bytes</title>
-    <link>//localhost:1313/tags/the-winter-sings---sergey-esenin./</link>
+    <link>/tags/the-winter-sings---sergey-esenin./</link>
     <description>Recent content in The Winter Sings - Sergey Esenin. on Baigel Bytes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Sun, 07 Jan 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/the-winter-sings---sergey-esenin./index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/the-winter-sings---sergey-esenin./index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The winter sings - Sergey Esenin.</title>
-      <link>//localhost:1313/poems/sergeyesenin_thewintersings/</link>
+      <link>/poems/sergeyesenin_thewintersings/</link>
       <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/poems/sergeyesenin_thewintersings/</guid>
+      <guid>/poems/sergeyesenin_thewintersings/</guid>
       <description>&lt;p&gt;The winter sings — aloud it yells,&#xA;The pine tree with its hundred bells&#xA;lulls shaggy forest and&#xA;around it all the rain-drenched clouds&#xA;Are sadly mounting in their crowds&#xA;To float to distant land.&lt;/p&gt;&#xA;&lt;p&gt;And in the yard a blizzard spreads&#xA;Its lovely silken carpet’s threads,&#xA;But brings its painful cold.&#xA;The energetic sparrows flit&#xA;Like little orphans there and sit&#xA;close up to window’s hold.&lt;/p&gt;&#xA;&lt;p&gt;For frozen stiff they huddle tight&#xA;To warming house with all their might&#xA;And hunger makes them tired.&#xA;But, madly roaring, storm’s gusts knock&#xA;The flapping shutters as they rock —&#xA;Its anger now is fired.&lt;/p&gt;</description>
     </item>
   </channel>

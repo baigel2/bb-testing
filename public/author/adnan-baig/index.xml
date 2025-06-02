@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Adnan Baig on Baigel Bytes</title>
-    <link>//localhost:1313/author/adnan-baig/</link>
+    <link>/author/adnan-baig/</link>
     <description>Recent content in Adnan Baig on Baigel Bytes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Fri, 13 Apr 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/author/adnan-baig/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/author/adnan-baig/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emotions</title>
-      <link>//localhost:1313/poems/emotions/</link>
+      <link>/poems/emotions/</link>
       <pubDate>Fri, 13 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/poems/emotions/</guid>
+      <guid>/poems/emotions/</guid>
       <description>&lt;p&gt;What are we without them?&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;And with them, volcanoes,&#xA;&lt;!-- raw HTML omitted --&gt;earthquakes, tsunamis&#xA;&lt;!-- raw HTML omitted --&gt;and fire.&lt;/p&gt;&#xA;&lt;p&gt;Time and again,&#xA;&lt;!-- raw HTML omitted --&gt;in my heart, a desire,&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;to be Vulcan but alas I&amp;rsquo;m human&#xA;&lt;!-- raw HTML omitted --&gt;and no higher.&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;But if I am to accept,&#xA;&lt;!-- raw HTML omitted --&gt;I’m no more than a human,&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alexander Maclean on Baigel Bytes</title>
-    <link>//localhost:1313/tags/alexander-maclean/</link>
+    <link>/tags/alexander-maclean/</link>
     <description>Recent content in Alexander Maclean on Baigel Bytes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/alexander-maclean/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/alexander-maclean/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New Year, Good-Morning! - Alexander Maclean</title>
-      <link>//localhost:1313/poems/newyeargoodmorning-alexandermaclean/</link>
+      <link>/poems/newyeargoodmorning-alexandermaclean/</link>
       <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/poems/newyeargoodmorning-alexandermaclean/</guid>
+      <guid>/poems/newyeargoodmorning-alexandermaclean/</guid>
       <description>&lt;p&gt;New Year, good-morning! Come and bring&#xA;Us days that smile and days that sing&#xA;Out from the drifts of swirling snow&#xA;That through the mirky midnight blow&#xA;And clutch with frosty hands and cling.&lt;/p&gt;&#xA;&lt;p&gt;Hark! how the joy-bells chime and ring&#xA;Thy birth, and new hope set a-wing.&#xA;With hands outstretched you come; and so&#xA;New Year, good-morning!&lt;/p&gt;&#xA;&lt;p&gt;New courage greets their clamoring—&#xA;The thought of friends, the thought of spring,&#xA;Of kindly solace for our woe,&#xA;Of happiness we&amp;rsquo;re still to know;&#xA;We wait your accolade, O King!&#xA;New Year, good-morning!&lt;/p&gt;</description>
     </item>
   </channel>

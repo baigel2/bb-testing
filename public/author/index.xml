@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Author on Baigel Bytes</title>
-    <link>//localhost:1313/author/</link>
+    <link>/author/</link>
     <description>Recent content in Author on Baigel Bytes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Fri, 13 Apr 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/author/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/author/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Adnan Baig</title>
-      <link>//localhost:1313/author/adnan-baig/</link>
+      <link>/author/adnan-baig/</link>
       <pubDate>Fri, 13 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/author/adnan-baig/</guid>
+      <guid>/author/adnan-baig/</guid>
       <description></description>
     </item>
   </channel>

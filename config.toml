@@ -1,4 +1,5 @@
 baseURL = "/"
+#baseURL = "https://baigelbytes.com/"
 title   = "Baigel Bytes"
 languageCode = "en-us"
 theme = "hugo-theme-hello-friend-ng"
@@ -37,12 +38,11 @@ disableHugoGeneratorInject = false
 [permalinks]
   posts = "/posts/:year/:month/:title/"
 
+
 [blackfriday]
   hrefTargetBlank = true
 
 [taxonomies]
-
-  author   = "author"
   tag      = "tags"
   category = "categories"
   series   = "series"
@@ -52,10 +52,11 @@ disableHugoGeneratorInject = false
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
+  author = "Adnan Baig"
 
   # Metadata mostly used in document's head
   # 
-  description = "Nice theme for homepages and blogs"
+  description = "A blog featuring topics that interest me and hopefully you too."
   keywords = ""
   images = [""]
 
@@ -182,6 +183,15 @@ disableHugoGeneratorInject = false
    # subtitle  = "A blog featuring topics that interest me and hopefully you too!"
     #weight    = 2
     #copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
+
 
 [menu]
   [[menu.main]]

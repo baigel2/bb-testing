@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Momento Mori on Baigel Bytes</title>
-    <link>//localhost:1313/tags/momento-mori/</link>
+    <link>/tags/momento-mori/</link>
     <description>Recent content in Momento Mori on Baigel Bytes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Sun, 22 Oct 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/momento-mori/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/momento-mori/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>No More Time!!</title>
-      <link>//localhost:1313/poems/notime/</link>
+      <link>/poems/notime/</link>
       <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/poems/notime/</guid>
+      <guid>/poems/notime/</guid>
       <description>&lt;p&gt;There is no time.&lt;/p&gt;&#xA;&lt;p&gt;There is no time.&lt;/p&gt;&#xA;&lt;p&gt;A second passes and there goes the day.&lt;/p&gt;&#xA;&lt;p&gt;A week, a month, ten years I say!&lt;/p&gt;&#xA;&lt;p&gt;There is no time,&lt;/p&gt;&#xA;&lt;p&gt;There is no time.&lt;/p&gt;&#xA;&lt;p&gt;To win your life, you must win each day.&lt;/p&gt;&#xA;&lt;p&gt;Discipline, is the only, way.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>New Poems on Baigel Bytes</title>
-    <link>//localhost:1313/series/new-poems/</link>
+    <link>/series/new-poems/</link>
     <description>Recent content in New Poems on Baigel Bytes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/series/new-poems/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/series/new-poems/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gratitude and songs of praise.</title>
-      <link>//localhost:1313/poems/gratitude/</link>
+      <link>/poems/gratitude/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/poems/gratitude/</guid>
+      <guid>/poems/gratitude/</guid>
       <description>&lt;p&gt;No right have I to not be grateful, to not sing the songs of praise.&lt;/p&gt;&#xA;&lt;p&gt;No right have I, to wonder yonder, and cry why me not they.&lt;/p&gt;&#xA;&lt;p&gt;How pitiful, how truly sad,&lt;/p&gt;&#xA;&lt;p&gt;to think of what I do not have,&lt;/p&gt;&#xA;&lt;p&gt;while other have so little!&lt;/p&gt;&#xA;&lt;p&gt;Be grateful you have eyes to see and lungs that breathe, be grateful you can walk and talk.&lt;/p&gt;&#xA;&lt;p&gt;Be grateful you can see the sunrise or that you spent last night at home.&lt;/p&gt;</description>
     </item>
   </channel>

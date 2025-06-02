@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>100 Days on Baigel Bytes</title>
-    <link>//localhost:1313/series/100-days/</link>
+    <link>/series/100-days/</link>
     <description>Recent content in 100 Days on Baigel Bytes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Sun, 22 Oct 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/series/100-days/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/series/100-days/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Freedom isn&#39;t free.</title>
-      <link>//localhost:1313/poems/freedomisntfree/</link>
+      <link>/poems/freedomisntfree/</link>
       <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/poems/freedomisntfree/</guid>
+      <guid>/poems/freedomisntfree/</guid>
       <description>&lt;p&gt;I have no right to be complacent. I have no right to be ungrateful.&lt;/p&gt;&#xA;&lt;p&gt;I only have the right to freedom, but freedom isn&amp;rsquo;t free.&lt;/p&gt;&#xA;&lt;p&gt;Freedom is to be so grateful that every second is lived not wasted.&lt;/p&gt;&#xA;&lt;p&gt;Freedom is responsibility so the ones you love can live not waste away.&lt;/p&gt;&#xA;&lt;p&gt;Freedom is ownership through discipline not entitlement or victimhood!&lt;/p&gt;&#xA;&lt;p&gt;Freedom is to be, your very greatest you.&lt;/p&gt;&#xA;&lt;p&gt;Do what you can but always do your best. You have no right, to do anything less.&lt;/p&gt;</description>
     </item>
   </channel>

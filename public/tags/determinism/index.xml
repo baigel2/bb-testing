@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Determinism on Baigel Bytes</title>
-    <link>//localhost:1313/tags/determinism/</link>
+    <link>/tags/determinism/</link>
     <description>Recent content in Determinism on Baigel Bytes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Mon, 13 Sep 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/determinism/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/determinism/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Free will might just be an illusion! (Topics I can&#39;t compute - part 1)</title>
-      <link>//localhost:1313/blog/freewill/</link>
+      <link>/blog/freewill/</link>
       <pubDate>Mon, 13 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/freewill/</guid>
+      <guid>/blog/freewill/</guid>
       <description>&lt;p&gt;&lt;em&gt;This is part one of a series called: Topics I can&amp;rsquo;t compute. As the name sugguests posts in this series will cover topics that I either partially or completely don&amp;rsquo;t understand or that are so mind blowing that I find them hard to wrap my head around.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;free-will-vs-determinism&#34;&gt;Free Will vs Determinism.&lt;/h2&gt;&#xA;&lt;h3 id=&#34;a-thought-experiment&#34;&gt;A thought experiment:&lt;/h3&gt;&#xA;&lt;p&gt;Is free will real? Some philosophers think not.&lt;/p&gt;&#xA;&lt;p&gt;Think of your favourite food, let&amp;rsquo;s say for example you absolutely love steak! Think about how you feel about steak, how you feel when you&amp;rsquo;re eating a really REALLY good one. Now, think of your least favourite food. Let&amp;rsquo;s say it&amp;rsquo;s cauliflower for example.&lt;/p&gt;</description>
     </item>
   </channel>
