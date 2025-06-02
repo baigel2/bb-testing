@@ -1,0 +1,32 @@
++++
+title = "Song of Ascents - Psalm 121"
+
+description = ""
+type = ["posts","post"]
+tags = [
+    "Poems",
+    "Psalm 121",
+    
+]
+date = "2023-12-17"
+series = ["Poetry/Bible."]
+[ author ]
+  name = "Psalm 121"
++++
+
+
+I lift up my eyes to the hills-- where does my help come from?
+
+My help comes from the LORD, the Maker of heaven and earth. 
+
+He will not let your foot slip-- he who watches over you will not slumber;
+
+indeed, he who watches over Israel will neither slumber nor sleep. 
+
+The LORD watches over you-- the LORD is your shade at your right hand;
+
+the sun will not harm you by day, nor the moon by night. 
+
+The LORD will keep you from all harm-- he will watch over your life;
+
+the LORD will watch over your coming and going both now and forevermore.
