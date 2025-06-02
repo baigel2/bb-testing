@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Waves on Baigel Bytes</title>
+    <link>//localhost:1313/tags/waves/</link>
+    <description>Recent content in Waves on Baigel Bytes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 15 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/waves/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Waves</title>
+      <link>//localhost:1313/poems/waves/</link>
+      <pubDate>Sat, 15 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/poems/waves/</guid>
+      <description>&lt;p&gt;Take these words by the reigns,&#xA;And steer them where you will.&lt;/p&gt;&#xA;&lt;p&gt;Remember though, remember though,&#xA;the struggle that is worthy, is the one that goes uphill.&lt;/p&gt;&#xA;&lt;p&gt;Through blood and sweat and tears,&#xA;through toil and good hard work,&#xA;forge a life of meaning and command a path your own.&lt;/p&gt;&#xA;&lt;p&gt;Swords are made in fire and by the beating of a hammer, and even flowers must go through mud to see the rising sun.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

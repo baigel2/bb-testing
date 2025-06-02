@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Old Poetry. on Baigel Bytes</title>
+    <link>//localhost:1313/series/my-old-poetry./</link>
+    <description>Recent content in My Old Poetry. on Baigel Bytes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Fri, 13 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/series/my-old-poetry./index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emotions</title>
+      <link>//localhost:1313/poems/emotions/</link>
+      <pubDate>Fri, 13 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/poems/emotions/</guid>
+      <description>&lt;p&gt;What are we without them?&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;And with them, volcanoes,&#xA;&lt;!-- raw HTML omitted --&gt;earthquakes, tsunamis&#xA;&lt;!-- raw HTML omitted --&gt;and fire.&lt;/p&gt;&#xA;&lt;p&gt;Time and again,&#xA;&lt;!-- raw HTML omitted --&gt;in my heart, a desire,&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;to be Vulcan but alas I&amp;rsquo;m human&#xA;&lt;!-- raw HTML omitted --&gt;and no higher.&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;But if I am to accept,&#xA;&lt;!-- raw HTML omitted --&gt;I’m no more than a human,&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Poetry on demand?</title>
+      <link>//localhost:1313/poems/poetryondemand/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/poems/poetryondemand/</guid>
+      <description>&lt;p&gt;I usually have to feel something to write a little poem thing.&#xA;But i thought id try and have a go, at writing poetry without being inspired..&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m a little bit tired but ill&amp;hellip; ill :/&#xA;Well this is no good, I&amp;rsquo;ve ran out of words, should i sit down and scribble or eat lemon curd?&lt;/p&gt;&#xA;&lt;p&gt;Oh wait! Im in the office, time to get back to work!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

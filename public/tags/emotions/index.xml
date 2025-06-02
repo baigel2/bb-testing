@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emotions on Baigel Bytes</title>
+    <link>//localhost:1313/tags/emotions/</link>
+    <description>Recent content in Emotions on Baigel Bytes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/emotions/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gratitude and songs of praise.</title>
+      <link>//localhost:1313/poems/gratitude/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/poems/gratitude/</guid>
+      <description>&lt;p&gt;No right have I to not be grateful, to not sing the songs of praise.&lt;/p&gt;&#xA;&lt;p&gt;No right have I, to wonder yonder, and cry why me not they.&lt;/p&gt;&#xA;&lt;p&gt;How pitiful, how truly sad,&lt;/p&gt;&#xA;&lt;p&gt;to think of what I do not have,&lt;/p&gt;&#xA;&lt;p&gt;while other have so little!&lt;/p&gt;&#xA;&lt;p&gt;Be grateful you have eyes to see and lungs that breathe, be grateful you can walk and talk.&lt;/p&gt;&#xA;&lt;p&gt;Be grateful you can see the sunrise or that you spent last night at home.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Emotions</title>
+      <link>//localhost:1313/poems/emotions/</link>
+      <pubDate>Fri, 13 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/poems/emotions/</guid>
+      <description>&lt;p&gt;What are we without them?&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;And with them, volcanoes,&#xA;&lt;!-- raw HTML omitted --&gt;earthquakes, tsunamis&#xA;&lt;!-- raw HTML omitted --&gt;and fire.&lt;/p&gt;&#xA;&lt;p&gt;Time and again,&#xA;&lt;!-- raw HTML omitted --&gt;in my heart, a desire,&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;to be Vulcan but alas I&amp;rsquo;m human&#xA;&lt;!-- raw HTML omitted --&gt;and no higher.&lt;/p&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;But if I am to accept,&#xA;&lt;!-- raw HTML omitted --&gt;I’m no more than a human,&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Baigel Bytes</title>
+    <link>//localhost:1313/tags/</link>
+    <description>Recent content in Tags on Baigel Bytes</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Tue, 18 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Discipline vs Consistency.</title>
+      <link>//localhost:1313/tags/discipline-vs-consistency./</link>
+      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/discipline-vs-consistency./</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ShortStories</title>
+      <link>//localhost:1313/tags/shortstories/</link>
+      <pubDate>Sun, 29 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/shortstories/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech Stuff</title>
+      <link>//localhost:1313/tags/tech-stuff/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/tech-stuff/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Some by Me, Some by Others.</title>
+      <link>//localhost:1313/tags/some-by-me-some-by-others./</link>
+      <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/some-by-me-some-by-others./</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poems</title>
+      <link>//localhost:1313/tags/poems/</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/poems/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Winter Sings - Sergey Esenin.</title>
+      <link>//localhost:1313/tags/the-winter-sings---sergey-esenin./</link>
+      <pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/the-winter-sings---sergey-esenin./</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Alexander Maclean</title>
+      <link>//localhost:1313/tags/alexander-maclean/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/alexander-maclean/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Marian Swinger</title>
+      <link>//localhost:1313/tags/marian-swinger/</link>
+      <pubDate>Sun, 24 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/marian-swinger/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Psalm 121</title>
+      <link>//localhost:1313/tags/psalm-121/</link>
+      <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/psalm-121/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>American</title>
+      <link>//localhost:1313/tags/american/</link>
+      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/american/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
