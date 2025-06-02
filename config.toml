@@ -1,5 +1,6 @@
-baseURL = "/"
-#baseURL = "https://baigelbytes.com/"
+#baseURL = "/"
+#baseURL = "https://localhost::1313"
+baseURL = "https://baigel2.github.io/bb-testing/"
 title   = "Baigel Bytes"
 languageCode = "en-us"
 theme = "hugo-theme-hello-friend-ng"
